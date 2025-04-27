@@ -35,4 +35,4 @@ console.log(myn2)
 console.log("c ",myArr)
 
 //slice won't manipulate original array (second paramater is not included)
-//splice will manipulate original array (second paramater is included)
+//splice will manipulate original array and remove splice elements (second paramater is included)
